@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://tadpole-frontend-v02.netlify.app",
 
   uTagName: "Transferring Potential Into Impact",
+
+  vMainApplication: "Tadpole Application",
+  vFrontendApplication: "Tadpole Application (Frontend)",
+  vAdminApplication: "Tadpole Application (Admin)",
+  vBackendApplication: "Tadpole Application (Backend)",
 }
 
 export default brandConnection;
